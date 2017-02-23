@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background: none;width: 98%;background: url(../images/bg2.jpg);}
+
+
+#header{width: 98%;}
+#header h1{display: none;float: none;margin: 0;}
+
+#nav{width: 98%;}
+#nav .left,#nav .right{display: none;float: none;}
+#nav ul{width: 98%;}
+#nav ul li{width: 11.11%;padding: 0;text-align: center;}
+
+#banner {width: 98%;}
+#banner img{width: 100%;}
+
+#con{width: 98%;background: none;height: 840px;}
+#con .up {height: auto;}
+#con .up ul{padding: 0;}
+#con .up li{width: 48%;background:white;border: 1px solid #000;border-radius:10px;margin-bottom: 10px;}
+
+
+#con .down{width: 98%;;height: 250px;}
+.down .down01{float: none;width: 98%;background: none;margin: 0;border: 1px solid #000;height: 170px;}
+
+.down .down01 dd{width: 60%;}
+.down .down02{float: none;width: 98%;background: none;margin: 0;border: 1px solid #000;height: 200px;}
+.down .down02 li{margin-right: 85px;}
+.down .down03{float: none;width: 98%;background: none;margin: 0;border: 1px solid #000;height: 170px;}
+
+#sub_nav{width: 98%;background: none;}
+#footer{width: 98%;background: none;}
